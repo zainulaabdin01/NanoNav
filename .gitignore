@@ -13,6 +13,7 @@ experiments/*
 !experiments/.gitkeep
 demos/*
 !demos/.gitkeep
+scripts/*
 
 .wandb/
 wandb/
