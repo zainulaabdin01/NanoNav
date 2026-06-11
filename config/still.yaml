@@ -1,0 +1,8 @@
+experiment:
+  name: nanonav_still
+
+fluid:
+  mode: still
+
+training:
+  checkpoint_dir: experiments/still

@@ -1,0 +1,15 @@
+experiment:
+  name: nanonav_turbulent
+
+fluid:
+  mode: turbulent
+  turbulent:
+    update_interval: 5
+    noise_scale: 1.2
+    smooth_sigma: 2.0
+  pulsatile:
+    enabled: true
+    frequency_hz: 1.0
+
+training:
+  checkpoint_dir: experiments/turbulent

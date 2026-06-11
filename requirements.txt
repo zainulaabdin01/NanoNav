@@ -1,0 +1,11 @@
+pymunk>=6.0
+numpy>=1.26
+scipy>=1.12
+pettingzoo>=1.24
+tianshou>=1.0
+torch>=2.0
+pygame-ce>=2.4
+imageio>=2.0
+imageio-ffmpeg>=0.4
+wandb>=0.16
+PyYAML>=6.0

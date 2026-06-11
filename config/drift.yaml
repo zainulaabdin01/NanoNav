@@ -1,0 +1,11 @@
+experiment:
+  name: nanonav_drift
+
+fluid:
+  mode: drift
+  drift:
+    vx: 0.8
+    vy: 0.0
+
+training:
+  checkpoint_dir: experiments/drift
